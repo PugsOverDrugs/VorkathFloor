@@ -27,6 +27,7 @@ public class ExamplePlugin extends Plugin
 	@Override
 	protected void startUp() throws Exception
 	{
+		//meaningless test commit
 		log.info("Example started!");
 	}
 
